@@ -1,3 +1,5 @@
-Maak symlinks:
+Installation:
+git clone https://github.com/Albireo37/.vim.git ~/.vim
 
+Maak symlinks:
 ln -s ~/.vim/vimrc ~/.vimrc
