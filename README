@@ -1,5 +1,8 @@
 Installation:
 git clone https://github.com/Albireo37/.vim.git ~/.vim
 
-Maak symlinks:
+Make symlinks:
 ln -s ~/.vim/vimrc ~/.vimrc
+
+source:
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
