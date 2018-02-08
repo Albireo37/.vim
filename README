@@ -1,0 +1,3 @@
+Maak symlinks:
+
+ln -s ~/.vim/vimrc ~/.vimrc
